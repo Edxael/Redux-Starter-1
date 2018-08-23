@@ -3,4 +3,4 @@
 Basic code for set-up Redux.
 
 -------------------------
-By: Edmundo Rubio
+By: Edmundo Rubio.
